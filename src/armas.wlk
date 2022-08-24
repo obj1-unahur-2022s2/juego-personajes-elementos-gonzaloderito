@@ -9,7 +9,7 @@ object ballesta {
 
 object jabalina {
 	var estaCargada = true
-	method estaCargado() = estaCargada //que el metodo se llame igual a la variable para mas adelante 
+	method estaCargada() = estaCargada //que el metodo se llame igual a la variable para mas adelante 
 	method usarArma() {estaCargada = false}
 	method potenciaDelArma() = 30
 	

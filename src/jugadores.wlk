@@ -1,7 +1,7 @@
 import personajes.*
 import elementos.*
 
-object luisa {
+object luisa{
 	var personajeActivo
 	method personajeActivo(unPersonaje){personajeActivo = unPersonaje}
 	method personajeActivo() = personajeActivo
